@@ -12,5 +12,6 @@
 
 
 3-Mobile_Third_Person_Melee_Controller:
+-using the new unity input System
 1.Third Person Controller : move,look around,run,sprint,roll,back step,attacks,falling,landing
 2.Camera Follow System
